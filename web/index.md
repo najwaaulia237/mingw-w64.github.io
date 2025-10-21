@@ -1,4 +1,4 @@
-<header>
+<GITHUB>
 <h1 style="text-align: center; margin: 3% 0 3% 0">
     <img src="header-dark.svg#gh-dark-mode-only" width="400px" height="88.15px" style="max-width: min(90%, 400px, calc(100vw - 80px));">
     <img src="header.svg#gh-light-mode-only" width="400px" height="88.15px" style="max-width: min(90%, 400px, calc(100vw - 80px));">
